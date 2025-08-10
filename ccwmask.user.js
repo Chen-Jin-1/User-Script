@@ -9,7 +9,7 @@
 // @icon         https://m.ccw.site/user_projects_assets/6df19377-8e84-4929-9e9c-93ddca968dcc.png
 // @grant        none
 // @updateURL    https://bgithub.xyz/Chen-Jin-1/User-Script/raw/refs/heads/main/ccwmask.user.js
-// @downloadURL    https://bgithub.xyz/Chen-Jin-1/User-Script/raw/refs/heads/main/ccwmask.user.js
+// @downloadURL  https://bgithub.xyz/Chen-Jin-1/User-Script/raw/refs/heads/main/ccwmask.user.js
 // ==/UserScript==
 
 (function() {
