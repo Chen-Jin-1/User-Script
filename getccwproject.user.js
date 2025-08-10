@@ -2,7 +2,7 @@
 // @name         CCW 作品源码下载器
 // @namespace    https://www.ccw.site/student/678cc9343778fc282d6252c5
 // @homepage     https://www.ccw.site/student/678cc9343778fc282d6252c5
-// @version      0.1
+// @version      0.1.1
 // @description  获取 CCW 作品源码
 // @author       Chen-Jin
 // @match        https://www.ccw.site/*
@@ -31,6 +31,7 @@ box.style.backdropFilter = "blur(1rem)";
 box.style.padding = "0.1rem 0.3rem";
 box.style.userSelect = "none";
 box.style.zIndex = "9999";
+box.style.title = "CCW 作品源码下载器 by Chen-Jin";
 box.innerText = "正在获取 Scratch vm.";
 document.documentElement.appendChild(box);
 
@@ -44,8 +45,8 @@ function save(name) {
         a.click();
         URL.revokeObjectURL(url);
     }).catch((error) => {
-        console.error('获取源码失败:', error);
-        window.alert('获取源码失败');
+        console.error('保存失败:', error);
+        window.alert('保存失败');
     });
 }
 
