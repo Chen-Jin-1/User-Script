@@ -2,7 +2,7 @@
 // @name         CCW 遮罩取消器
 // @namespace    https://www.ccw.site/student/678cc9343778fc282d6252c5
 // @homepage     https://www.ccw.site/student/678cc9343778fc282d6252c5
-// @version      0.4
+// @version      0.4.1
 // @description  取消 CCW 遮罩，避免页面被遮挡
 // @author       Chen-Jin
 // @match        https://*.ccw.site/*
