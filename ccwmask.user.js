@@ -30,7 +30,8 @@
                 notice.className = 'ccw-unmask-notice';
                 notice.style.cssText = `
                     border-radius: 0.3rem;
-                    background: white;
+                    background: #ffffff60;
+                    backdrop-filter: blur(1rem);
                     color: black;
                     width: fit-content;
                     padding: 0px 0.3rem;
@@ -42,11 +43,11 @@
                 notice.title = 'CCW 遮罩取消器 by Chen-Jin';
 
                 notice.addEventListener('mouseover', () => {
-                    notice.style.background = '#00aeff';
+                    notice.style.background = '#00aeff60';
                 });
 
                 notice.addEventListener('mouseout', () => {
-                    notice.style.background = 'white';
+                    notice.style.background = '#ffffff60';
                 });
 
                 element.parentNode.insertBefore(notice, element.nextSibling);
