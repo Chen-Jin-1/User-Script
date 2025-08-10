@@ -2,11 +2,12 @@
 // @name         CCW 作品源码下载器
 // @namespace    https://www.ccw.site/student/678cc9343778fc282d6252c5
 // @homepage     https://www.ccw.site/student/678cc9343778fc282d6252c5
-// @version      0.1.2
+// @version      0.1.3
 // @description  获取 CCW 作品源码
 // @author       Chen-Jin
 // @match        https://www.ccw.site/detail/*
 // @match        https://www.ccw.site/player/*
+// @icon         https://m.ccw.site/user_projects_assets/6df19377-8e84-4929-9e9c-93ddca968dcc.png
 // @grant        none
 // @updateURL    https://bgithub.xyz/Chen-Jin-1/User-Script/raw/refs/heads/main/getccwproject.user.js
 // @downloadURL  https://bgithub.xyz/Chen-Jin-1/User-Script/raw/refs/heads/main/getccwproject.user.js
