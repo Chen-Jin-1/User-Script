@@ -2,7 +2,7 @@
 // @name         CCW 遮罩取消器
 // @namespace    https://www.ccw.site/student/678cc9343778fc282d6252c5
 // @homepage     https://www.ccw.site/student/678cc9343778fc282d6252c5
-// @version      0.3
+// @version      0.3.1
 // @description  取消 CCW 遮罩，避免页面覆盖
 // @author       Chen-Jin
 // @match        https://*.ccw.site/*
@@ -33,7 +33,7 @@
                     background: white;
                     color: black;
                     width: fit-content;
-                    padding: 0px 0.2rem;
+                    padding: 0px 0.3rem;
                     transition-duration: 0.3s;
                     margin-top: 5px;
                 `;
