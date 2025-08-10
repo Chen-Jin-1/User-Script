@@ -36,6 +36,7 @@
                     padding: 0px 0.3rem;
                     transition-duration: 0.3s;
                     margin-top: 5px;
+                    position: absolute;
                 `;
                 notice.textContent = '已取消遮罩';
                 notice.title = 'CCW 遮罩取消器 by Chen-Jin';
