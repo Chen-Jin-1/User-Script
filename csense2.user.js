@@ -3,8 +3,8 @@
 // @namespace    CSense2
 // @version      0.1.3
 // @license      CC0-1.0
-// @downloadURL  https://axolotltfgs.github.io/CSense/csense.js
-// @updateURL    https://axolotltfgs.github.io/CSense/csense.js
+// @downloadURL  https://bgithub.xyz/Chen-Jin-1/User-Scripts/raw/refs/heads/main/csense2.user.js
+// @updateURL    https://bgithub.xyz/Chen-Jin-1/User-Scripts/raw/refs/heads/main/csense2.user.js
 // @description  一个 CCW 安全审计工具
 // @author       axolotl
 // @match        https://www.ccw.site/*
@@ -12,7 +12,7 @@
 // @grant        none
 // @run-at       document-start
 // ==/UserScript==
-// 不想上学修改版
+// 不想上学、Chen-Jin 修改版
 // 此文件由 Chen-Jin 上传
 // 2025-8-28
 
