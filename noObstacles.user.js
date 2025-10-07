@@ -12,5 +12,5 @@
 // ==/UserScript==
 
 var style = document.createElement('style');
-style.innerHTML = '.LBktY > .GssDD, #cookieConsentContainer, .mw-cookiewarning-container {display: none !important;}';
+style.innerHTML = '.LBktY > .GssDD, #cookieConsentContainer, .mw-cookiewarning-container, #wcpConsentBannerCtrl {display: none !important;}';
 document.head.appendChild(style);
